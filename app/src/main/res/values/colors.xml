@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryDark">#F50057</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
+    <color name="white_color">#FFFFFF</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+
+    <color name="main_tab_bg_color">#117ab1</color>
+    <color name="main_tab_divider_color">#2796d1</color>
+    <color name="main_action_bar_color">#f5f5f5</color>
+    <color name="home_top_stories_lable_color">#0099cc</color>
+    <color name="home_latest_news_lable_color">#e64624</color>
+    <color name="home_videos_lable_color">#ee6d1c</color>
+    <color name="drawer_icon_color">@color/main_tab_bg_color</color>
+    <color name="red_color">#D30009</color>
+    <color name="setting_page_dark_grey">#DDDDDD</color>
+    <color name="setting_page_light_grey">#EEEEEE</color>
+    <color name="left_nav_drawer_main_color">#005395</color>
+    <color name="left_nav_drawer_main_color1">#00A5FF</color>
+    <color name="tab_unselected">#117AB3</color>
+    <color name="edit_hint">#8083A1</color>
+    <color name="black">#000000</color>
+    <color name="orange">#FA0</color>
+    <color name="white">#FFF</color>
+    <color name="green">#ADFF2F</color>
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+</resources>
